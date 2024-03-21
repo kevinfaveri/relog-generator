@@ -1,0 +1,4 @@
+import { FPS } from "../../const";
+
+export const DRM_LOG_FILE_ANIMATION_SECONDS = 4;
+export const DRM_LOG_FILE_ANIMATION_FRAMES = FPS * DRM_LOG_FILE_ANIMATION_SECONDS;
